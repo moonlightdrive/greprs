@@ -1,0 +1,5 @@
+* Greprs
+An implementation of grep in rust, from/following along with the rust book.
+
+* Todos
+** TODO Implement case insensitive search
